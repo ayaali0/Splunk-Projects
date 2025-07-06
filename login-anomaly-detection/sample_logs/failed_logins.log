@@ -1,0 +1,6 @@
+06/26/2025 10:05:12 AM LogName=Security EventCode=4625 User=aya.ali Workstation=HR-PC Reason=Bad password
+06/26/2025 10:06:45 AM LogName=Security EventCode=4625 User=aya.ali Workstation=HR-PC Reason=Bad password
+06/26/2025 10:07:03 AM LogName=Security EventCode=4625 User=aya.ali Workstation=HR-PC Reason=Bad password
+06/26/2025 11:12:01 AM LogName=Security EventCode=4625 User=admin Workstation=FIN-PC Reason=User not found
+06/26/2025 12:33:55 PM LogName=Security EventCode=4625 User=tech.user Workstation=IT-PC Reason=Bad password
+06/26/2025 01:05:33 PM LogName=Security EventCode=4625 User=tech.user Workstation=IT-PC Reason=Bad password
